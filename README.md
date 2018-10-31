@@ -1,4 +1,4 @@
-# CSCE 1300 - Project 4 - Library Catalog
+# CSCE 1030 - Project 4 - Library Catalog
 **Author:** Alice Zhu
 
 **Due Date:** 2 May 2018
