@@ -9,3 +9,8 @@ search for a list of books borrowed by a user. Reads external
 files books.txt and students.txt.
 
 Written in C++. Practice in utilizing fstreams, structs, & pointers.
+
+**Installation:** 
+1. Compile in directory with `g++ *.cpp`. 
+
+2. Run with `./a.out`
